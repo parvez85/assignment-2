@@ -1,0 +1,44 @@
+/* header */
+
+.header{
+    width: 90%;
+    background-color:#00bcd4;
+    padding: 30px;
+}
+.header-elements{
+     display: flex;
+     justify-content: space-between;
+     color: rgb(22, 25, 31);
+
+}
+.header{
+     font-size: 22px;
+}
+.header h1{
+    font-size: 38px;
+}
+.header-a { 
+    color: rgb(44, 54, 97);
+    font-size: 23px;
+    padding: 12px;
+   
+}
+
+/* about me */
+
+.img-me{
+    width: 23%;
+    align-items: center;
+}
+.about-me-text{
+    display: flex;
+    flex-direction: column;
+    margin: 22px 22px;
+    justify-content: center;
+    align-items: center;
+}
+.about-me-flex{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    justify-items: center;
+}

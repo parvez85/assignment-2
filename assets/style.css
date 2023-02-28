@@ -1,5 +1,7 @@
 /* header */
-
+.body{
+    background-color: darkseagreen;
+}
 .header{
     width: 90%;
     background-color:#00bcd4;
@@ -84,3 +86,8 @@
         font-size: 20px;
         padding: 28px; 
     }
+@media only screen and (max-width: 600px){
+  body { background-color: lightcyan;
+
+  }
+}

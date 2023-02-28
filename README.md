@@ -1,6 +1,6 @@
 
 
-   Abdul Parvez Prtofolio
+   Abdul Parvez Protofolio
 
 - In this Projet I have started to create my own Protofolio
 
